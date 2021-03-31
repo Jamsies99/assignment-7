@@ -1,0 +1,27 @@
+{
+  "name": "socket-assignment",
+  "version": "1.0.0",
+  "description": "collaborative drawing machine",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamsies99/ACC_Assignment7.git"
+  },
+  "keywords": [
+    "drawing"
+  ],
+  "author": "Jeremy Eng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jamsies99/ACC_Assignment7/issues"
+  },
+  "homepage": "https://github.com/Jamsies99/ACC_Assignment7#readme",
+  "dependencies": {
+    "config.json": "0.0.4",
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  }
+}
